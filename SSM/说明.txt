@@ -1,0 +1,6 @@
+需要修改的地方：
+
+jdbc.properties
+
+log4j.properties
+
